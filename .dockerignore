@@ -1,5 +1,7 @@
 .git
 target
+./cargo_wrapper.sh
+**/output/
 **/target/
 **/*.txt
 **/*.md
